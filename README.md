@@ -1,2 +1,2 @@
 # Playrepo
-For testing purposes.
+Play repository for testing purposes.
